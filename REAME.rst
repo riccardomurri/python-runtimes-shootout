@@ -13,7 +13,7 @@ runtimes on a non-numeric scientific code*, presented at `EuroSciPy
   should probably work on any other Linux distribution with minimal
   adaptation.
 
-  .. sles12: http://en.wikipedia.org/wiki/SUSE_Linux_Enterprise_Server
+  .. _sles12: http://en.wikipedia.org/wiki/SUSE_Linux_Enterprise_Server
 
 * The ``run`` directory contains the bash_ scripts used to run the
   tests.  They are quite specific to my setup, but again should be
